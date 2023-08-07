@@ -4,18 +4,10 @@
         <title>My Site Blog</title>
         <link>https://abottleofmilk.github.io/my-website/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Mon, 13 Sep 2021 18:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[hello-test]]></title>
-            <link>https://abottleofmilk.github.io/my-website/blog/2022/03/02/hello-test</link>
-            <guid>https://abottleofmilk.github.io/my-website/blog/2022/03/02/hello-test</guid>
-            <pubDate>Mon, 13 Sep 2021 18:00:00 GMT</pubDate>
-            <description><![CDATA[hello]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_VPcu" id="hello">hello<a href="#hello" class="hash-link" aria-label="Direct link to hello" title="Direct link to hello">​</a></h2><h2 class="anchor anchorWithStickyNavbar_VPcu" id="powershell">PowerShell<a href="#powershell" class="hash-link" aria-label="Direct link to PowerShell" title="Direct link to PowerShell">​</a></h2><ul><li>(mkdir test)-and(cd test)</li><li>mkdir test;cd test</li></ul>]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://abottleofmilk.github.io/my-website/blog/welcome</link>
