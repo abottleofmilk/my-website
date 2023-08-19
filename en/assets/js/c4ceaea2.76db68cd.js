@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5069],{6874:e=>{e.exports=JSON.parse('{"title":"Tutorial - Front - End","slug":"/category/tutorial---front---end","permalink":"/my-website/en/docs/category/tutorial---front---end","navigation":{"next":{"title":"Vue","permalink":"/my-website/en/docs/category/vue"}}}')}}]);
