@@ -1,5 +1,6 @@
 ---
 title: Deploy
+sidebar_position: 2
 ---
 
 ## 基本流程

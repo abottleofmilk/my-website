@@ -1,5 +1,6 @@
 ---
 title: Docusaurus Search
+sidebar_position: 1
 ---
 ## 基本流程
 1. 安装
